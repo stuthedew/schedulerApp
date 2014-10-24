@@ -1,0 +1,19 @@
+{
+  "name": "Elsa_Vacation_Scheduler",
+  "version": "0.0.0",
+  "description": "Scheduler to help my Elsa plan vacation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuthedew/schedulerApp.git"
+  },
+  "author": "Stuart Feichtinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuthedew/schedulerApp/issues"
+  },
+  "homepage": "https://github.com/stuthedew/schedulerApp"
+}
