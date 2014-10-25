@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/stuthedew/schedulerApp/issues"
   },
-  "homepage": "https://github.com/stuthedew/schedulerApp"
+  "homepage": "https://github.com/stuthedew/schedulerApp",
+  "dependencies": {
+    "express": "^4.10.0",
+    "moment": "^2.8.3",
+    "moment-timezone": "^0.2.3",
+    "mongoskin": "^1.4.4"
+  }
 }
